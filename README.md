@@ -99,6 +99,7 @@ Temperature sensing, battery monitoring, light detection, audio input, potentiom
 
 **(S3)**	**Include the schematic as an image in the README.md file and a share link to the simulation in Circuit Lab.**
 
+![Screenshot](Screenshot%202025-02-27%20224128.png)
 
 CREDIT: I did not design the Schmitt trigger. In reality you’d just use in IC for this
 
