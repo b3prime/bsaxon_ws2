@@ -29,7 +29,7 @@ Timer: Timer overflow interrupts track time. On timeout, firmware toggles LEDs/b
 
 **(S1)**	**Create a flowchart to explain the sequence of tasks your MCU will handle in firmware.**
 
-
+![Screenshot](Screenshot%202025-02-27%20224115.png)
 
 **(R3)**	**If you need extra parts, record those parts in the Design 1 tab of the BOM.**
 
