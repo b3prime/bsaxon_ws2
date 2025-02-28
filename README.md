@@ -59,6 +59,8 @@ Coffee Maker/Cat Feeder: GPIO relays. Screen data sent via UART.
 
 **(S2)**	**Create a flowchart to explain the sequence of tasks your MCU will handle in firmware.**
 
+![Screenshot](Screenshot%202025-02-27%20224121.png)
+
 **(R6)**	**If you need extra parts, record those parts in the Design 2 tab of the BOM.**
 
 ## Short Answers
